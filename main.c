@@ -1,6 +1,5 @@
 /*
  * Author: Bell Chen
- * Lab Section: L1X
  * Date: 12/18/2020 10:10:10 AM
  *
  */
