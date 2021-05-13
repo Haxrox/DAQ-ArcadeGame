@@ -1,8 +1,3 @@
-/*
- * Author: Bell Chen
- * Date: 12/18/2020 10:10:10 AM
- *
- */
 #define _CRT_SECURE_NO_WARNINGS
 
 /* Headers */
